@@ -1,0 +1,22 @@
+# API keys
+.env
+
+# Models (they train their own)
+models/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+*.exe
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
