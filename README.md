@@ -6,7 +6,7 @@ Terminal-based prediction engine for stocks, crypto, and forex.
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshots/market.png" width="600">
+  <img src="screenshots/markets.png" width="600">
 </p>
 
 <p align="center">
