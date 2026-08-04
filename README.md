@@ -3,6 +3,16 @@
 
 Terminal-based prediction engine for stocks, crypto, and forex.
 
+## 📸 Preview
+
+<p align="center">
+  <img src="screenshots/market.png" width="600">
+</p>
+
+<p align="center">
+  <img src="screenshots/verdict.png" width="600">
+</p>
+
 ## Features
 - 8 specialized workers analyzing 5 independent data layers
 - Live data from Binance, Yahoo Finance, CoinGecko
